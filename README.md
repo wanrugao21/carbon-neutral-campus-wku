@@ -6,7 +6,6 @@
 [![Status](https://img.shields.io/badge/Status-In_Preparation-yellow)](.)
 [![Journal](https://img.shields.io/badge/Target-Sustainable_Cities_%26_Society-blue)](https://www.sciencedirect.com/journal/sustainable-cities-and-society)
 [![GEE](https://img.shields.io/badge/Platform-Google_Earth_Engine-green)](https://earthengine.google.com)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 ---
 
