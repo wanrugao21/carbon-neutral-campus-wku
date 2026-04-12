@@ -1,0 +1,4 @@
+Scenario,Description,Roof_Area_m2,Usable_Fraction,Usable_Area_m2,Solar_GHI_kWh_m2_yr,Panel_Efficiency,System_Efficiency,Annual_Energy_MWh,Grid_Factor_kgCO2_kWh,CO2_Avoided_tCO2_yr
+A,Current_ArcGIS_Verified,90257.07,0.75,67693,1200,0.20,0.85,13809.33,0.581,8023.22
+B,Full_Buildout_Extrapolated,93792.73,0.75,70344.55,1200,0.20,0.85,14350.29,0.581,8337.52
+C,Conservative_50pct,90257.07,0.50,45128.5,1200,0.20,0.85,9206.22,0.581,5348.81
