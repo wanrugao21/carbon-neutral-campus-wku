@@ -1,0 +1,14 @@
+Land_Use_Type,Area_m2,Green_Space_m2,Trees_count,Biomass_kg,Carbon_Storage_tCO2
+Class_II_Residential,207932,16883,517,21908.6,36.1
+Service_Facilities,9229,1836,56,2372.2,3.9
+University_Campus,876260,515215,13718,590147.4,973.7
+Social_Welfare,14302,0,0,0,0
+Religious_Facilities,58019,18486,566,23976.7,39.6
+Commercial,13343,0,0,0,0
+Business,157562,140883,4315,182791,301.6
+Power_Supply,2884,0,0,0,0
+Green_Space,93710,93710,2870,121578,200.6
+Adjusted_Design,366061,97663,2582,110806.8,182.8
+Woodland_Educational,877522,877522,26881,1138727,1878.9
+Water,29169,0,0,0,0
+Total,2705993,1762228,51505,2192307.7,3617.3
