@@ -150,4 +150,4 @@ BSc Environmental Science, University of Nottingham
 ---
 
 *Manuscript in preparation for **Sustainable Cities and Society***  
-*Abstracts submitted: XJTLU-UNNC Conference 2026 · PolyU GeoAI Symposium 2026*
+**Abstracts accepted: XJTLU-UNNC Conference 2026 · PolyU GeoAI Symposium 2026**
