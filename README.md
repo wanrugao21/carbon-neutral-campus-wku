@@ -123,6 +123,10 @@ and allometric equations, which does not depend on the RF model.
 - Shadow and mixed-pixel effects in UAV visual interpretation
 - Roof-PV obstruction assumptions (75% usable fraction)
 
+**Future improvements:**
+- Transformer-based models  
+- Temporal sequence modelling  
+
 ---
 
 ## 🔁 Reproducibility
@@ -136,18 +140,6 @@ To reproduce results:
 
 ---
 
-## ⚠️ Limitations
-
-• Limited GEDI samples (n=156)  
-• Moderate model performance (R² = 0.15)  
-• No deep learning implementation yet  
-
-Future improvements:
-• Transformer-based models  
-• Temporal sequence modelling  
-
----
-
 ## 📬 Contact
 
 **Wanru Gao** | wanrugao21@gmail.com  
@@ -158,4 +150,4 @@ BSc Environmental Science, University of Nottingham
 ---
 
 *Manuscript in preparation for **Sustainable Cities and Society***  
-*Abstracts accepted: XJTLU-UNNC Conference 2026 · PolyU GeoAI Symposium 2026*
+*Abstracts submitted: XJTLU-UNNC Conference 2026 · PolyU GeoAI Symposium 2026*
