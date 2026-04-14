@@ -125,6 +125,29 @@ and allometric equations, which does not depend on the RF model.
 
 ---
 
+## 🔁 Reproducibility
+
+To reproduce results:
+
+1. Open GEE Code Editor  
+2. Copy script from `/gee_scripts`  
+3. Run in the defined region  
+4. Export outputs  
+
+---
+
+## ⚠️ Limitations
+
+• Limited GEDI samples (n=156)  
+• Moderate model performance (R² = 0.15)  
+• No deep learning implementation yet  
+
+Future improvements:
+• Transformer-based models  
+• Temporal sequence modelling  
+
+---
+
 ## 📬 Contact
 
 **Wanru Gao** | wanrugao21@gmail.com  
