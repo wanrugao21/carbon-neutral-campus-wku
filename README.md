@@ -143,7 +143,7 @@ To reproduce results:
 ## 📬 Contact
 
 **Wanru Gao** | wanrugao21@gmail.com  
-BSc Environmental Science, University of Nottingham  
+BSc Environmental Science, University of Nottingham
 [LinkedIn](https://linkedin.com/in/wanru-gao-9581672b9) · 
 [Peatland Repository](../peatland-flow-country-gee)
 
