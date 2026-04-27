@@ -62,7 +62,7 @@ Integrated Carbon Balance
 
 | Folder | Contents |
 |--------|----------|
-| `gee_scripts/` | Complete GEE workflow (v3.0) — GEDI + RF + PV scenarios |
+| `gee_scripts/` | Complete GEE workflow — GEDI + RF + PV scenarios |
 | `r_analysis/` | Publication-quality figures (ggplot2) |
 | `data/` | Summary results tables (CSV) |
 | `arcgis_analysis/` | Rooftop digitisation methodology |
