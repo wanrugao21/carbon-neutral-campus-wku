@@ -12,7 +12,7 @@
 ## 🎯 Key Finding
 
 > **PV deployment on existing rooftops (90,257 m²) could offset 
-> 8,023 tCO₂/yr — exceeding campus annual emissions of 8,352 tCO₂. 
+> 8,023 tCO₂/yr, exceeding campus annual emissions of 8,352 tCO₂. 
 > Combined with vegetation carbon stocks (3,617 tCO₂), WKU can 
 > achieve carbon-positive status through integrated nature-based 
 > and technological solutions.**
