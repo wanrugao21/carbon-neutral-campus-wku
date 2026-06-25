@@ -40,15 +40,15 @@
 ## 🔬 Methodology Overview
 
 ```text
-UAV Photogrammetry          Satellite Data              Field Surveys
+UAV Photogrammetry          Satellite Data             Field Surveys
 (DJI Mavic 2/3 Pro)        (Sentinel-1/2, GEDI)        (DBH, Height)
-1.2 cm/pixel ortho          GEE Processing               Allometrics
-↓                          ↓                          ↓
-SfM-MVS 3D               Random Forest RF              AGB → Carbon
+1.2 cm/pixel ortho          GEE Processing              Allometrics
+↓                          ↓                            ↓
+SfM-MVS 3D                 Random Forest RF             AGB → Carbon
 Reconstruction            Canopy Height Model           (3,617 tCO₂)
 ↓                          ↓
-QGIS Visual              Extended woodland
-Interpretation            CHM prediction
+QGIS Visual                Extended woodland
+Interpretation              CHM prediction
 (trees/shrubs/lawn)
 ↓
 Integrated Carbon Balance
@@ -115,7 +115,7 @@ GEDI RH98 labels. This low R² reflects the challenge of predicting
 subtropical urban-edge canopy height from satellite spectral features 
 alone with sparse training data (n=156). Campus interior vegetation 
 carbon was estimated directly from UAV-derived structural parameters 
-and allometric equations, which does not depend on the RF model.
+and allometric equations, which do not depend on the RF model.
 
 **Uncertainty sources:**
 - Allometric equation transferability across species
