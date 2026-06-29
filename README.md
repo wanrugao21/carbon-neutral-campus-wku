@@ -40,14 +40,14 @@
 ## 🔬 Methodology Overview
 
 ```text
-UAV Photogrammetry          Satellite Data             Field Surveys
-(DJI Mavic 2/3 Pro)        (Sentinel-1/2, GEDI)        (DBH, Height)
-1.2 cm/pixel ortho          GEE Processing              Allometrics
-↓                          ↓                            ↓
-SfM-MVS 3D                 Random Forest RF             AGB → Carbon
-Reconstruction            Canopy Height Model           (3,617 tCO₂)
-↓                          ↓
-QGIS Visual                Extended woodland
+UAV Photogrammetry          Satellite Data                Field Surveys
+(DJI Mavic 2/3 Pro)         (Sentinel-1/2, GEDI)          (DBH, Height)
+1.2 cm/pixel ortho          GEE Processing                Allometrics
+↓                           ↓                             ↓
+SfM-MVS 3D                  Random Forest RF              AGB → Carbon
+Reconstruction              Canopy Height Model           (3,617 tCO₂)
+↓                           ↓
+QGIS Visual                 Extended woodland
 Interpretation              CHM prediction
 (trees/shrubs/lawn)
 ↓
